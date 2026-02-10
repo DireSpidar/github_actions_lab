@@ -1,4 +1,4 @@
-```yaml
+---
 name: GitHub Actions Demo
 on: [push]
 jobs:
@@ -17,4 +17,4 @@ echo test, and deploy your project.
 npm install # Example: if you had a package.json
 npm test # Example: if you had tests defined
 node index.js # Example: if you have an index.js file
-```
+...
